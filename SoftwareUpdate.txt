@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
